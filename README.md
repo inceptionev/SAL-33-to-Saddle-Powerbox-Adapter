@@ -8,7 +8,9 @@
 
 This should be considered a temporary setup, as these 3D-printed plastics will creep over time.  You really want this to be metal if you are making this permanent.
 
-I recommend using a high-temperature high-strength fiber filled material such as ASA-CF.
+The .stl is what you want to import into your slicer for 3D-printing.  The .ipt is a native Inventor CAD file if you want to view or modify the design.
+
+I recommend using a high-temperature high-strength fiber filled material such as ASA-CF.  Supports are required to properly print the bottom cavity.
 
 Heat set inserts are required to provide the M5 threads for the saddle mount.  Make sure they are 6mm or less in length.  I used these: https://www.mcmaster.com/94459A774/  You will need the tool to insert them as well.
 
