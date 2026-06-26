@@ -2,17 +2,17 @@
 
 CNC or 3D-printable adapter puck for adding the Saddle Powerbox to the SAL-33 mount.
 
-![Puck Adapter](/images/puck-cnc.jpeg)
-
-![Saddle mounted on SAL-33](/images/saddle-mounted-cnc.jpeg)
-
-![Puck Adapter](/images/puck.jpeg)
+![Puck Adapter CNC](/images/puck-cnc.jpeg)
 
 ![Saddle mounted on SAL-33](/images/saddle-mounted.jpeg)
+
+![Puck Adapter 3D Print](/images/puck.jpeg)
 
 ** CNC **
 
 The native design file is the .ipt in Autodesk Inventor format, and the CAM file is the .f3z in Fusion 360 format.  This CAM was was done for the Makera Carvera Air using Makera tools, you will need to re-run the CAM for your own tools and machine.
+
+There is a 3D-printable anchoring jig that will help to hold the stock on the machine.
 
 The Saddle Powerbox comes with 4x M5x6mm screws which will work with this.  Reuse the same screws from the SAL-33 to mount the puck to the harmonic drive.
 
